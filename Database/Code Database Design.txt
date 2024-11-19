@@ -1,0 +1,86 @@
+https://app.quickdatabasediagrams.com/#/
+# Modify this code to update the DB schema diagram.
+# To reset the sample schema, replace everything with
+# two dots ('..' - without quotes).
+
+Customer
+-
+CustomerID PK int
+FirstName string
+LastName string
+Phone string
+Email NULL string
+
+Address
+-
+AddressID PK int
+CustomerID int FK >- Customer.CustomerID
+ApartmentNumber int
+BuildingNumber int
+Street string
+City string
+Country string
+PostalCode int
+
+Employee
+-
+EmployeeID PK int
+FirstName string
+LastName string
+Phone string
+Age int
+HireDate date
+
+Shipper
+-
+ShipperID PK int
+Name string
+Phone string
+
+Supplier
+-
+SupplierID PK int
+Name string
+Phone string
+City string
+Country string
+
+Order
+-
+OrderID PK int
+CustomerID int FK >- Customer.CustomerID
+EmployeeID int FK >- Employee.EmployeeID
+ShipperID int FK >- Shipper.ShipperID
+OrderStatusID int FK >- os.OrderStatusID
+TotalAmount float
+OrderDate date
+
+OrderDetail as od
+----
+OrderDetailID PK int
+OrderID int FK >- Order.OrderID
+ProductID int FK >- p.ProductID
+Quantity int
+UnitPrice float
+Discount int
+
+Category
+--------
+CategoryID PK int
+Name string
+Description string
+
+# Table documentation comment 1 (try the PDF/RTF export)
+Product as p # Table documentation comment 2
+------------
+ProductID PK int
+Name string UNIQUE # Field documentation comment 3
+SupplierID int FK >- Supplier.SupplierID
+CategoryID int FK >- Category.CategoryID
+UnitPrice float
+StockQuantity int
+
+OrderStatus as os
+----
+OrderStatusID PK int
+Status UNIQUE string
