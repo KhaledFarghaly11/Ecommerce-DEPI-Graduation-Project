@@ -1,0 +1,74 @@
+
+FactOrdersAndDetails
+-
+OrderID PK int
+ProductID int FK >- dp.ProductID
+CustomerID int FK >- dc.CustomerID
+EmployeeID int FK >- de.EmployeeID
+ShipperID int FK >- ds.ShipperID
+SupplierID int FK >- dsup.SupplierID
+StatusID int FK >- dos.OrderStatusID
+OrderDate date
+Quantity int
+Price float
+Discount int
+TotalAmount float
+
+DimCategory as dcg
+-
+CategoryID PK int
+CategoryName string
+CategoryDescription string
+
+DimProduct as dp
+----
+ProductID PK int
+ProductName string
+SupplierID int FK >- dsup.SupplierID
+CategoryID int FK >- dcg.CategoryID
+UnitPrice float
+UnitsInStock int
+
+
+DimSupplier as dsup
+------------
+SupplierID PK int
+SupplierName string
+Phone string
+City string
+Country string
+
+DimCustomer as dc
+----
+CustomerID PK int
+CustomerName string
+Phone string
+Email NULL string
+
+DimAddress as da
+-
+AddressID PK int
+CustomerID int FK >- dc.CustomerID
+Address string
+City string
+Country string
+PostalCode int
+
+DimOrderStatus as dos
+----
+OrderStatusID PK int
+Status UNIQUE string
+
+DimEmployee as de
+-
+EmployeeID PK int
+EmployeeName string
+Phone string
+Age int
+HireDate date
+
+DimShipper as ds
+-
+ShipperID PK int
+Name string
+Phone string

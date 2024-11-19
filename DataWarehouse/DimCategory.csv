@@ -1,0 +1,1001 @@
+CategoryID,CategoryName,CategoryDescription
+1,Site Furnishings,Influenza due to other identified influenza virus with other manifestations
+2,Soft Flooring and Base,"Unspecified physeal fracture of right calcaneus, subsequent encounter for fracture with routine healing"
+3,HVAC,"Ultralight, microlight or powered-glider explosion injuring occupant, initial encounter"
+4,Rebar & Wire Mesh Install,Spotting complicating pregnancy
+5,Masonry & Precast,"Nondisplaced fracture of lower epiphysis (separation) of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+6,Landscaping & Irrigation,"Corrosion of third degree of multiple sites of right wrist and hand, subsequent encounter"
+7,Hard Tile & Stone,"Legal intervention involving injury by explosive shell, bystander injured"
+8,Casework,Fluid overload
+9,Retaining Wall and Brick Pavers,"Burn of third degree of female genital region, initial encounter"
+10,Roofing (Asphalt),Contusion of little finger without damage to nail
+11,Roofing (Metal),"Nondisplaced fracture of distal phalanx of right index finger, subsequent encounter for fracture with routine healing"
+12,Granite Surfaces,"Laceration without foreign body of unspecified buttock, sequela"
+13,Masonry & Precast,Other disorders of branched-chain amino-acid metabolism
+14,Roofing (Metal),Injury of unspecified nerve at wrist and hand level of right arm
+15,Epoxy Flooring,"Recurrent dislocation, hand and finger(s)"
+16,Roofing (Metal),"Unspecified sprain of right elbow, subsequent encounter"
+17,Plumbing & Medical Gas,"Noninfective disorders of pinna, unspecified ear"
+18,Plumbing & Medical Gas,"Exposure to excessive natural cold, sequela"
+19,Curb & Gutter,"Displaced fracture of anterior column [iliopubic] of unspecified acetabulum, initial encounter for open fracture"
+20,Marlite Panels (FED),Malignant neoplasm of unspecified site of right female breast
+21,Drilled Shafts,"Other fracture of upper and lower end of right fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+22,Glass & Glazing,"Partial traumatic transphalangeal amputation of right index finger, subsequent encounter"
+23,Prefabricated Aluminum Metal Canopies,"Unspecified injury of unspecified foot, sequela"
+24,Glass & Glazing,"Unspecified superficial injury of right wrist, initial encounter"
+25,Glass & Glazing,"Contact with prime movers, subsequent encounter"
+26,Fire Sprinkler System,Unspecified speech disturbances
+27,Granite Surfaces,"Toxic effect of dichloromethane, undetermined, initial encounter"
+28,Elevator,"Poisoning by phenothiazine antipsychotics and neuroleptics, assault, initial encounter"
+29,Asphalt Paving,"Otitis media, unspecified, left ear"
+30,Roofing (Metal),"Pedestrian with other conveyance injured in collision with heavy transport vehicle or bus in traffic accident, sequela"
+31,HVAC,"Toxic effect of contact with other venomous plant, assault, subsequent encounter"
+32,Soft Flooring and Base,Hypervitaminosis A
+33,"Temp Fencing, Decorative Fencing and Gates","Corrosion of first degree of forehead and cheek, sequela"
+34,Casework,Dental caries on smooth surface penetrating into pulp
+35,Drilled Shafts,Merkel cell carcinoma of ear and external auricular canal
+36,Exterior Signage,"Displaced segmental fracture of shaft of humerus, unspecified arm, initial encounter for closed fracture"
+37,Exterior Signage,Displaced transverse fracture of shaft of right ulna
+38,Framing (Steel),"Corrosion of first degree of unspecified ankle, subsequent encounter"
+39,Ornamental Railings,"Displaced transverse fracture of shaft of unspecified ulna, subsequent encounter for closed fracture with malunion"
+40,HVAC,"Subluxation of unspecified interphalangeal joint of left index finger, initial encounter"
+41,Ornamental Railings,"Nondisplaced fracture of greater tuberosity of right humerus, subsequent encounter for fracture with routine healing"
+42,Hard Tile & Stone,"Unspecified fracture of head of left femur, sequela"
+43,Curb & Gutter,"Other injury of unspecified muscle, fascia and tendon at wrist and hand level, left hand, initial encounter"
+44,Curb & Gutter,"Poisoning by phenothiazine antipsychotics and neuroleptics, intentional self-harm"
+45,Ornamental Railings,Chronic enlargement of left lacrimal gland
+46,EIFS,"Corrosion of third degree of left elbow, initial encounter"
+47,Site Furnishings,"Toxic effect of benzene, accidental (unintentional), sequela"
+48,Structural & Misc Steel Erection,"Unspecified injury of intrinsic muscle and tendon at ankle and foot level, left foot, initial encounter"
+49,Plumbing & Medical Gas,"Fracture of unspecified phalanx of right ring finger, subsequent encounter for fracture with nonunion"
+50,Casework,"Superficial foreign body of left little finger, initial encounter"
+51,Termite Control,"Other specified injury of dorsal vein of left foot, initial encounter"
+52,Masonry & Precast,"Nondisplaced fracture of right ulna styloid process, subsequent encounter for closed fracture with routine healing"
+53,Waterproofing & Caulking,Other disorders of nervous system in diseases classified elsewhere
+54,Electrical,"Poisoning by unspecified agents primarily acting on the respiratory system, assault, initial encounter"
+55,Retaining Wall and Brick Pavers,"Traumatic hemorrhage of left cerebrum with loss of consciousness of 6 hours to 24 hours, sequela"
+56,Roofing (Metal),"Anterior subluxation of right sternoclavicular joint, initial encounter"
+57,Roofing (Asphalt),"Localized vascularization of cornea, left eye"
+58,Structural & Misc Steel Erection,"Rh incompatibility with delayed hemolytic transfusion reaction, subsequent encounter"
+59,Drilled Shafts,"Burn of third degree of right scapular region, initial encounter"
+60,Wall Protection,"Overexertion from prolonged static or awkward postures, sequela"
+61,Fire Protection,"Sprain of interphalangeal joint of right thumb, sequela"
+62,Granite Surfaces,"Breakdown (mechanical) of other internal orthopedic devices, implants and grafts, subsequent encounter"
+63,Elevator,Contact with and (suspected) exposure to rubella
+64,Granite Surfaces,"Poisoning by tetracyclic antidepressants, intentional self-harm"
+65,Elevator,Unspecified pedal cyclist injured in collision with pedestrian or animal in nontraffic accident
+66,Painting & Vinyl Wall Covering,Interstitial cystitis (chronic) with hematuria
+67,Casework,Fracture of unspecified part of scapula
+68,Masonry & Precast,"Other traumatic displaced spondylolisthesis of fourth cervical vertebra, sequela"
+69,Framing (Wood),"Displaced transverse fracture of left patella, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+70,Roofing (Metal),"Other injury of flexor muscle, fascia and tendon of left little finger at forearm level, initial encounter"
+71,HVAC,Contusion of lung
+72,Electrical and Fire Alarm,"Laceration without foreign body of left thumb without damage to nail, sequela"
+73,Drilled Shafts,Complication to newborn due to (fetal) intrauterine procedure
+74,Fire Protection,Influenza due to other identified influenza virus with gastrointestinal manifestations
+75,Epoxy Flooring,"Displaced segmental fracture of shaft of radius, unspecified arm, subsequent encounter for open fracture type I or II with nonunion"
+76,Construction Clean and Final Clean,"Poisoning by antidotes and chelating agents, undetermined"
+77,Hard Tile & Stone,"Poisoning by enzymes, intentional self-harm"
+78,Glass & Glazing,"Maternal care for other isoimmunization, unspecified trimester, fetus 2"
+79,Waterproofing & Caulking,"Burn of first degree of left wrist, subsequent encounter"
+80,Fire Protection,"Other foreign object in esophagus causing other injury, sequela"
+81,Masonry,Unspecified traumatic spondylolisthesis of second cervical vertebra
+82,Ornamental Railings,Military operations involving explosion of torpedo
+83,Asphalt Paving,"Methicillin resistant Staphylococcus aureus infection, unspecified site"
+84,HVAC,"Osteolysis, right forearm"
+85,Marlite Panels (FED),"Complete lesion at C5 level of cervical spinal cord, initial encounter"
+86,Painting & Vinyl Wall Covering,"Nondisplaced fracture of shaft of fifth metacarpal bone, right hand, subsequent encounter for fracture with delayed healing"
+87,Marlite Panels (FED),"Other exposure to controlled fire in building or structure, sequela"
+88,Drywall & Acoustical (FED),"Laceration of extensor muscle, fascia and tendon of left thumb at wrist and hand level, subsequent encounter"
+89,Landscaping & Irrigation,"War operations involving biological weapons, military personnel"
+90,Epoxy Flooring,"Crushing injury of left ankle, sequela"
+91,Electrical,"Insect bite (nonvenomous), right great toe"
+92,Hard Tile & Stone,Cognitive deficits following other nontraumatic intracranial hemorrhage
+93,Masonry,Absence epileptic syndrome
+94,Drilled Shafts,Primary occlusal trauma
+95,Exterior Signage,"Unspecified physeal fracture of lower end of radius, left arm, subsequent encounter for fracture with malunion"
+96,Exterior Signage,"Passenger in pick-up truck or van injured in collision with other motor vehicles in nontraffic accident, initial encounter"
+97,Roofing (Metal),"Nondisplaced fracture of medial phalanx of left lesser toe(s), initial encounter for closed fracture"
+98,EIFS,"Gastrointestinal stromal tumor, unspecified site"
+99,Ornamental Railings,"Driver of pick-up truck or van injured in collision with other motor vehicles in nontraffic accident, subsequent encounter"
+100,Fire Protection,"Circumvallate placenta, unspecified trimester"
+101,Overhead Doors,Nondisplaced fracture of cuboid bone of right foot
+102,Masonry & Precast,"Displaced fracture of medial condyle of left femur, initial encounter for closed fracture"
+103,Painting & Vinyl Wall Covering,Dissection of thoracic aorta
+104,RF Shielding,"Age-related osteoporosis with current pathological fracture, unspecified lower leg"
+105,Sitework & Site Utilities,"Leakage of other specified internal prosthetic devices, implants and grafts, initial encounter"
+106,Retaining Wall and Brick Pavers,Benign lipomatous neoplasm of skin and subcutaneous tissue of left leg
+107,Structural & Misc Steel Erection,"Toxic effect of other metals, accidental (unintentional), sequela"
+108,Electrical,"Motorcycle driver injured in collision with unspecified motor vehicles in nontraffic accident, initial encounter"
+109,HVAC,"Strain of flexor muscle, fascia and tendon of left middle finger at wrist and hand level, sequela"
+110,HVAC,"Partial traumatic amputation at unspecified shoulder joint, subsequent encounter"
+111,Wall Protection,"Drowning and submersion after fall into bathtub, undetermined intent, subsequent encounter"
+112,Glass & Glazing,"Laceration of greater saphenous vein at lower leg level, unspecified leg"
+113,Structural and Misc Steel (Fabrication),"Other specified bursopathies, right hip"
+114,Drywall & Acoustical (MOB),"Unspecified injury of liver, subsequent encounter"
+115,Prefabricated Aluminum Metal Canopies,"Laceration of unspecified blood vessel at ankle and foot level, right leg"
+116,Wall Protection,"Unspecified car occupant injured in collision with railway train or railway vehicle in nontraffic accident, initial encounter"
+117,Curb & Gutter,Blister (nonthermal) of left ear
+118,Construction Clean and Final Clean,Neurological devices associated with adverse incidents
+119,Drywall & Acoustical (FED),Pain in left arm
+120,Structural and Misc Steel (Fabrication),"Subluxation of proximal interphalangeal joint of right ring finger, sequela"
+121,Overhead Doors,"Other otosclerosis, left ear"
+122,Masonry,"Pedestrian on foot injured in collision with two- or three-wheeled motor vehicle in traffic accident, sequela"
+123,Exterior Signage,"Maternal care for malpresentation of fetus, unspecified, not applicable or unspecified"
+124,Rebar & Wire Mesh Install,"Nondisplaced oblique fracture of shaft of right tibia, subsequent encounter for closed fracture with routine healing"
+125,"Temp Fencing, Decorative Fencing and Gates","Displaced oblique fracture of shaft of left radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+126,Structural and Misc Steel (Fabrication),"Pathological fracture in neoplastic disease, left tibia, subsequent encounter for fracture with nonunion"
+127,Fire Sprinkler System,"Nondisplaced segmental fracture of shaft of left femur, subsequent encounter for open fracture type I or II with delayed healing"
+128,Site Furnishings,"Maternal care for incarceration of gravid uterus, first trimester"
+129,Overhead Doors,Fall on board merchant ship
+130,Structural & Misc Steel Erection,Malignant neoplasm of cerebral ventricle
+131,Roofing (Metal),"Other disorders of continuity of bone, right fibula"
+132,Retaining Wall and Brick Pavers,Pneumococcal arthritis and polyarthritis
+133,Sitework & Site Utilities,Proteus (mirabilis) (morganii) as the cause of diseases classified elsewhere
+134,Drywall & Acoustical (FED),"Barton's fracture of left radius, subsequent encounter for open fracture type I or II with malunion"
+135,Structural and Misc Steel (Fabrication),"Spontaneous rupture of flexor tendons, left forearm"
+136,Electrical and Fire Alarm,"Unspecified open wound of right little finger without damage to nail, subsequent encounter"
+137,Drywall & Acoustical (MOB),"Strain of flexor muscle, fascia and tendon of right index finger at wrist and hand level, sequela"
+138,HVAC,Arteriovenous malformation of vessel of lower limb
+139,Waterproofing & Caulking,"Toxic effect of venom of hornets, intentional self-harm, sequela"
+140,Masonry & Precast,Fall into natural body of water striking bottom
+141,Overhead Doors,"Poisoning by, adverse effect of and underdosing of oxytocic drugs"
+142,Sitework & Site Utilities,"Other superficial bite of right elbow, initial encounter"
+143,Prefabricated Aluminum Metal Canopies,"Displaced oblique fracture of shaft of unspecified fibula, subsequent encounter for closed fracture with routine healing"
+144,Casework,"Malignant melanoma of left lower limb, including hip"
+145,Drilled Shafts,"Salter-Harris Type II physeal fracture of lower end of humerus, left arm, sequela"
+146,Fire Sprinkler System,"Reiter's disease, unspecified elbow"
+147,Casework,Malignant otitis externa
+148,Granite Surfaces,"Calcification and ossification of muscles associated with burns, unspecified thigh"
+149,Asphalt Paving,Acute lymphangitis of other sites
+150,Electrical,"Injury of medial plantar nerve, right leg, sequela"
+151,Masonry & Precast,"Traumatic rupture of symphysis pubis, sequela"
+152,Roofing (Asphalt),Fourth degree hemorrhoids
+153,Drywall & Acoustical (MOB),Unspecified sprain of right wrist
+154,Curb & Gutter,"Passenger in heavy transport vehicle injured in collision with other motor vehicles in nontraffic accident, initial encounter"
+155,Epoxy Flooring,"Burn of unspecified degree of unspecified palm, subsequent encounter"
+156,Exterior Signage,"Traumatic rupture of collateral ligament of unspecified wrist, sequela"
+157,Construction Clean and Final Clean,"Pigmentary glaucoma, left eye, mild stage"
+158,"Doors, Frames & Hardware",Contusion of right index finger without damage to nail
+159,RF Shielding,Other private fixed-wing aircraft crash injuring occupant
+160,Prefabricated Aluminum Metal Canopies,"Maternal care for other rhesus isoimmunization, second trimester, fetus 4"
+161,Wall Protection,Blepharochalasis left lower eyelid
+162,"Doors, Frames & Hardware","Poisoning by other agents primarily acting on the respiratory system, assault, subsequent encounter"
+163,Fire Protection,Passenger in heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle in traffic accident
+164,Structural & Misc Steel Erection,Arterial tortuosity syndrome
+165,Elevator,"Drusen (degenerative) of macula, right eye"
+166,Construction Clean and Final Clean,Unspecified corneal neovascularization
+167,Hard Tile & Stone,"Strain of left quadriceps muscle, fascia and tendon"
+168,Masonry & Precast,"Corrosion of unspecified degree of abdominal wall, initial encounter"
+169,RF Shielding,External constriction of other part of head
+170,Waterproofing & Caulking,Motorcycle rider (driver) (passenger) injured in transport accident with military vehicle
+171,Masonry & Precast,Atheroembolism of other sites
+172,Drilled Shafts,"Displaced unspecified condyle fracture of lower end of unspecified femur, subsequent encounter for closed fracture with routine healing"
+173,Framing (Wood),"Poisoning by methylphenidate, undetermined, initial encounter"
+174,RF Shielding,"Other superficial bite of unspecified part of head, subsequent encounter"
+175,Elevator,"Burn of unspecified degree of unspecified single finger (nail) except thumb, sequela"
+176,Soft Flooring and Base,"Age-related osteoporosis with current pathological fracture, right lower leg, subsequent encounter for fracture with delayed healing"
+177,Site Furnishings,"Inferior subluxation of left humerus, sequela"
+178,Termite Control,"Pre-existing essential hypertension complicating pregnancy,"
+179,Granite Surfaces,"Unspecified fracture of left lower leg, subsequent encounter for open fracture type I or II with malunion"
+180,Soft Flooring and Base,"Poisoning by unspecified hormones and synthetic substitutes, assault, sequela"
+181,Retaining Wall and Brick Pavers,Late congenital syphilitic arthropathy
+182,Hard Tile & Stone,Malignant neoplasm of unspecified site of right male breast
+183,Electrical and Fire Alarm,"Nondisplaced fracture of coronoid process of unspecified ulna, initial encounter for closed fracture"
+184,Granite Surfaces,Other specified types of T/NK-cell lymphoma
+185,Waterproofing & Caulking,Spondylolisthesis
+186,Framing (Steel),Gas pain
+187,Epoxy Flooring,"Toxic effect of unspecified alcohol, undetermined, sequela"
+188,Structural & Misc Steel Erection,"Passenger of other special all-terrain or other off-road motor vehicle injured in nontraffic accident, sequela"
+189,Curb & Gutter,Neoplasm of uncertain behavior of unspecified ovary
+190,Masonry & Precast,"Displaced fracture of coronoid process of right ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+191,Fire Protection,"Toxic effect of fiberglass, assault, subsequent encounter"
+192,EIFS,"Activity, free weights"
+193,HVAC,"Poisoning by, adverse effect of and underdosing of antimycobacterial drugs"
+194,Wall Protection,Mechanical complication of other cardiac and vascular devices and implants
+195,Roofing (Asphalt),"Poisoning by, adverse effect of and underdosing of other hormones and synthetic substitutes"
+196,"Temp Fencing, Decorative Fencing and Gates",Other sprain of other finger
+197,Asphalt Paving,"Crushing injury of unspecified wrist, subsequent encounter"
+198,Drilled Shafts,"Nondisplaced fracture of proximal phalanx of right little finger, initial encounter for closed fracture"
+199,Casework,Congenital malformations of spleen
+200,Glass & Glazing,Cellulitis of left upper limb
+201,Fire Sprinkler System,"Tear of articular cartilage of right knee, current, sequela"
+202,Framing (Steel),"Puncture wound without foreign body of unspecified part of thorax, subsequent encounter"
+203,Casework,Other superficial bite of lip
+204,Construction Clean and Final Clean,"Other marginal perforations of tympanic membrane, unspecified ear"
+205,Waterproofing & Caulking,"Toxic effect of fiberglass, undetermined, initial encounter"
+206,Drilled Shafts,"Displaced spiral fracture of shaft of ulna, unspecified arm, subsequent encounter for closed fracture with routine healing"
+207,Roofing (Metal),"Nondisplaced fracture of neck of third metacarpal bone, right hand"
+208,Plumbing & Medical Gas,"Osteophyte, right knee"
+209,Structural and Misc Steel (Fabrication),"Unspecified fracture of fifth lumbar vertebra, subsequent encounter for fracture with nonunion"
+210,Epoxy Flooring,"Strain of other specified muscles and tendons at ankle and foot level, right foot, sequela"
+211,Prefabricated Aluminum Metal Canopies,"Concussion and edema of thoracic spinal cord, initial encounter"
+212,Framing (Steel),"Intraoperative hemorrhage and hematoma of eye and adnexa complicating an ophthalmic procedure, bilateral"
+213,Masonry & Precast,"Other bursitis, not elsewhere classified, right wrist"
+214,Soft Flooring and Base,Merkel cell carcinoma of trunk
+215,Curb & Gutter,"External constriction of unspecified ear, subsequent encounter"
+216,Structural and Misc Steel (Fabrication),"Disorders of visual pathways in (due to) neoplasm, unspecified side"
+217,Structural and Misc Steel (Fabrication),"Displaced fracture of left radial styloid process, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+218,HVAC,Corrosions involving 30-39% of body surface with 20-29% third degree corrosion
+219,Overhead Doors,Longitudinal reduction defect of right ulna
+220,Granite Surfaces,"Other skateboard accident, subsequent encounter"
+221,Structural & Misc Steel Erection,"Displaced fracture of intermediate cuneiform of left foot, sequela"
+222,Site Furnishings,"Displaced apophyseal fracture of left femur, subsequent encounter for closed fracture with delayed healing"
+223,"Doors, Frames & Hardware",Agenesis and aplasia of uterus
+224,Wall Protection,Nondisplaced fracture of distal phalanx of unspecified thumb
+225,Casework,"Unspecified fracture of lower end of right femur, initial encounter for open fracture type I or II"
+226,Marlite Panels (FED),4-part fracture of surgical neck of unspecified humerus
+227,Rebar & Wire Mesh Install,Military operations involving combat using blunt or piercing object
+228,Site Furnishings,Rheumatoid myopathy with rheumatoid arthritis
+229,Masonry & Precast,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, left eye"
+230,Construction Clean and Final Clean,Unspecified sexual dysfunction not due to a substance or known physiological condition
+231,HVAC,"Unspecified open wound of left upper arm, initial encounter"
+232,Overhead Doors,"Other placental disorders, unspecified trimester"
+233,Sitework & Site Utilities,"Displaced comminuted fracture of shaft of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+234,Overhead Doors,"Corrosion of second degree of head, face, and neck, unspecified site"
+235,Painting & Vinyl Wall Covering,"Nondisplaced oblique fracture of shaft of left ulna, initial encounter for open fracture type I or II"
+236,Framing (Steel),"Nondisplaced comminuted fracture of shaft of radius, left arm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+237,Roofing (Asphalt),"Unspecified injury of left forearm, subsequent encounter"
+238,Termite Control,Unspecified malignant neoplasm of skin of other parts of face
+239,RF Shielding,Arteriovenous fistula of pulmonary vessels
+240,Retaining Wall and Brick Pavers,"Puncture wound with foreign body of right front wall of thorax without penetration into thoracic cavity, initial encounter"
+241,Drywall & Acoustical (FED),Abrasion of forearm
+242,Framing (Steel),"Toxic effect of carbon disulfide, intentional self-harm, sequela"
+243,Electrical,"Other fracture of shaft of right femur, subsequent encounter for closed fracture with delayed healing"
+244,Epoxy Flooring,Other forms of coccidioidomycosis
+245,Termite Control,Other abnormal products of conception
+246,Casework,Personal history of diabetic foot ulcer
+247,Asphalt Paving,Unspecified street and highway as the place of occurrence of the external cause
+248,Wall Protection,"Malignant neoplasm of upper lobe, left bronchus or lung"
+249,Asphalt Paving,"Military operations involving biological weapons, military personnel, subsequent encounter"
+250,Roofing (Metal),"Displaced oblique fracture of shaft of right tibia, subsequent encounter for open fracture type I or II with routine healing"
+251,Elevator,Contusion of lung
+252,Ornamental Railings,Unspecified complication of other transplanted tissue
+253,Fire Protection,"Body mass index (BMI) 27.0-27.9, adult"
+254,Granite Surfaces,"Military operations involving unspecified explosion and fragments, military personnel, subsequent encounter"
+255,Structural and Misc Steel (Fabrication),"Corrosion of unspecified degree of multiple sites of right shoulder and upper limb, except wrist and hand, subsequent encounter"
+256,Fire Sprinkler System,Atresia of esophagus without fistula
+257,Epoxy Flooring,Rheumatoid arthritis with rheumatoid factor of left hip without organ or systems involvement
+258,Drywall & Acoustical (FED),"Military operations involving firearms pellets, civilian"
+259,Wall Protection,"Adverse effect of butyrophenone and thiothixene neuroleptics, sequela"
+260,"Doors, Frames & Hardware","Nondisplaced bimalleolar fracture of left lower leg, subsequent encounter for closed fracture with nonunion"
+261,"Doors, Frames & Hardware","Complete traumatic transphalangeal amputation of left thumb, initial encounter"
+262,Drywall & Acoustical (MOB),Type 2 diabetes mellitus with diabetic chronic kidney disease
+263,Structural and Misc Steel (Fabrication),"Laceration of axillary artery, left side, sequela"
+264,Rebar & Wire Mesh Install,Car driver injured in collision with van in traffic accident
+265,Termite Control,"Unspecified fracture of head of left femur, subsequent encounter for closed fracture with routine healing"
+266,Masonry & Precast,"ABO incompatibility with hemolytic transfusion reaction, unspecified, sequela"
+267,Hard Tile & Stone,"Poisoning by 4-Aminophenol derivatives, undetermined, sequela"
+268,Soft Flooring and Base,Accidental puncture or laceration of dura during a procedure
+269,Drywall & Acoustical (FED),"Laceration of unspecified tibial artery, unspecified leg, sequela"
+270,Retaining Wall and Brick Pavers,"Toxic effect of chromium and its compounds, accidental (unintentional)"
+271,Electrical and Fire Alarm,"Nondisplaced fracture of medial phalanx of right ring finger, initial encounter for open fracture"
+272,Curb & Gutter,"Nondisplaced transverse fracture of shaft of right radius, subsequent encounter for open fracture type I or II with nonunion"
+273,Glass & Glazing,Pressure ulcer of right hip
+274,Electrical and Fire Alarm,"Injury of unspecified blood vessel at neck level, sequela"
+275,"Doors, Frames & Hardware","Displaced oblique fracture of shaft of unspecified fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+276,Fire Protection,"Polyhydramnios, unspecified trimester, fetus 5"
+277,Epoxy Flooring,"Greenstick fracture of shaft of left ulna, sequela"
+278,Site Furnishings,"Exposure to sofa fire due to unspecified burning material, sequela"
+279,Hard Tile & Stone,Chronic or unspecified gastric ulcer with hemorrhage
+280,"Doors, Frames & Hardware","Lead-induced chronic gout, unspecified hip, without tophus (tophi)"
+281,Elevator,"Unspecified open wound of left hand, sequela"
+282,"Temp Fencing, Decorative Fencing and Gates","Breakdown (mechanical) of indwelling ureteral stent, subsequent encounter"
+283,Exterior Signage,"Displaced longitudinal fracture of right patella, subsequent encounter for open fracture type I or II with delayed healing"
+284,Drilled Shafts,"Osteopathy in diseases classified elsewhere, left upper arm"
+285,Electrical,"Subluxation of proximal interphalangeal joint of right little finger, initial encounter"
+286,Elevator,Terrorism involving other and unspecified means
+287,Exterior Signage,"Recurrent dislocation, right knee"
+288,Exterior Signage,"Burn of left eyelid and periocular area, subsequent encounter"
+289,Termite Control,Laceration without foreign body of abdominal wall with penetration into peritoneal cavity
+290,Termite Control,Nondisplaced other extraarticular fracture of right calcaneus
+291,Framing (Steel),"Car passenger injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, subsequent encounter"
+292,Overhead Doors,"Stenosis of peripheral vascular stent, sequela"
+293,Drywall & Acoustical (MOB),Labor and delivery complicated by abnormality of fetal acid-base balance
+294,Curb & Gutter,"Anterior cord syndrome at C8 level of cervical spinal cord, initial encounter"
+295,Structural & Misc Steel Erection,Osteitis deformans of lower leg
+296,Ornamental Railings,"Laceration with foreign body of right thumb without damage to nail, sequela"
+297,Rebar & Wire Mesh Install,"Contact with special construction vehicle in stationary use, initial encounter"
+298,"Doors, Frames & Hardware",Other displaced fracture of upper end of left humerus
+299,Prefabricated Aluminum Metal Canopies,"Displaced fracture of lunate [semilunar], unspecified wrist, subsequent encounter for fracture with routine healing"
+300,Ornamental Railings,"Displaced comminuted fracture of unspecified patella, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+301,Electrical,Other sprain of right foot
+302,Prefabricated Aluminum Metal Canopies,Complete uterovaginal prolapse
+303,Landscaping & Irrigation,Unspecified superficial injuries of right front wall of thorax
+304,Drywall & Acoustical (FED),Unspecified fracture of lower end of left ulna
+305,Fire Sprinkler System,Moderate laceration of pancreas
+306,Fire Protection,Atherosclerosis of native coronary artery of transplanted heart with other forms of angina pectoris
+307,Exterior Signage,Burn of unspecified degree of multiple sites of unspecified ankle and foot
+308,Epoxy Flooring,Long QT syndrome
+309,Site Furnishings,"Other mechanical complication of cranial or spinal infusion catheter, subsequent encounter"
+310,Fire Protection,"Localized vascularization of cornea, unspecified eye"
+311,Landscaping & Irrigation,"Corrosion of second degree of left shoulder, sequela"
+312,Termite Control,"Superficial foreign body, right great toe"
+313,Site Furnishings,"Instability of internal right knee prosthesis, sequela"
+314,Drywall & Acoustical (MOB),"Burn of third degree of left thigh, subsequent encounter"
+315,Structural & Misc Steel Erection,"Unspecified disseminated chorioretinal inflammation, right eye"
+316,EIFS,"Acquired pure red cell aplasia, unspecified"
+317,Fire Sprinkler System,"Anaplastic large cell lymphoma, ALK-positive"
+318,Hard Tile & Stone,"Intermittent hydrarthrosis, unspecified site"
+319,EIFS,"Burn of third degree of back of unspecified hand, sequela"
+320,Glass & Glazing,Crushing injury of left wrist and hand
+321,Elevator,Marker chromosomes in normal individual
+322,Site Furnishings,Contusion of rectum
+323,Granite Surfaces,"Continuing pregnancy after elective fetal reduction of one fetus or more, first trimester, not applicable or unspecified"
+324,Drywall & Acoustical (MOB),"Corrosion of first degree of multiple sites of left lower limb, except ankle and foot"
+325,Framing (Steel),"Herpesviral infection of urogenital system, unspecified"
+326,Asphalt Paving,"Ankylosis, unspecified foot"
+327,EIFS,"Unspecified injury of posterior tibial artery, left leg"
+328,Site Furnishings,Direct infections of joint in infectious and parasitic diseases classified elsewhere
+329,Masonry,"War operations involving rubber bullets, civilian"
+330,"Doors, Frames & Hardware","Toxic effect of tobacco cigarettes, accidental (unintentional), sequela"
+331,Drywall & Acoustical (FED),Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of unspecified site
+332,Granite Surfaces,Pustulosis palmaris et plantaris
+333,EIFS,Neonatal jaundice due to polycythemia
+334,Roofing (Asphalt),"Other spondylosis with radiculopathy, cervical region"
+335,Framing (Wood),Other forms of coccidioidomycosis
+336,Exterior Signage,"Unspecified injury of superficial palmar arch of right hand, subsequent encounter"
+337,Drywall & Acoustical (FED),"Poisoning by mixed antiepileptics, accidental (unintentional)"
+338,Retaining Wall and Brick Pavers,Laceration with foreign body of right back wall of thorax without penetration into thoracic cavity
+339,Curb & Gutter,"Walked into furniture, sequela"
+340,Prefabricated Aluminum Metal Canopies,Other specified interstitial pulmonary diseases
+341,Hard Tile & Stone,Anterior dislocation of lens
+342,Landscaping & Irrigation,"Salter-Harris Type III physeal fracture of left calcaneus, sequela"
+343,Casework,Postherpetic polyneuropathy
+344,Drilled Shafts,Alzheimer's disease with late onset
+345,Ornamental Railings,"Poisoning by other agents primarily affecting gastrointestinal system, assault, initial encounter"
+346,Termite Control,"External constriction of right middle finger, sequela"
+347,Drywall & Acoustical (MOB),"Corrosion of unspecified degree of left elbow, initial encounter"
+348,Painting & Vinyl Wall Covering,"Displaced spiral fracture of shaft of unspecified tibia, subsequent encounter for closed fracture with routine healing"
+349,Curb & Gutter,"Displaced fracture of neck of second metacarpal bone, right hand, initial encounter for open fracture"
+350,Drywall & Acoustical (FED),"Poisoning by antiallergic and antiemetic drugs, intentional self-harm"
+351,Electrical,"Displaced associated transverse-posterior fracture of unspecified acetabulum, initial encounter for open fracture"
+352,Framing (Steel),"Other adverse food reactions, not elsewhere classified, subsequent encounter"
+353,EIFS,"Unspecified dislocation of left thumb, sequela"
+354,Masonry,"Laceration without foreign body of right upper arm, subsequent encounter"
+355,Drywall & Acoustical (MOB),"Fracture of other part of scapula, right shoulder, initial encounter for open fracture"
+356,Plumbing & Medical Gas,"Unspecified traumatic nondisplaced spondylolisthesis of seventh cervical vertebra, subsequent encounter for fracture with nonunion"
+357,RF Shielding,"Unspecified fracture of right talus, subsequent encounter for fracture with delayed healing"
+358,Exterior Signage,"Unspecified open wound of right thumb without damage to nail, sequela"
+359,Plumbing & Medical Gas,"Nondisplaced segmental fracture of shaft of right tibia, subsequent encounter for closed fracture with delayed healing"
+360,Exterior Signage,Trichorrhexis nodosa
+361,"Temp Fencing, Decorative Fencing and Gates",Pre-eclampsia
+362,HVAC,"Fibroblastic disorder, unspecified"
+363,Roofing (Asphalt),"Displaced other extraarticular fracture of unspecified calcaneus, subsequent encounter for fracture with delayed healing"
+364,Roofing (Asphalt),"Continuing pregnancy after spontaneous abortion of one fetus or more, unspecified trimester, fetus 4"
+365,Wall Protection,Spinal and epidural anesthesia-induced headache during labor and delivery
+366,Painting & Vinyl Wall Covering,"Unspecified car occupant injured in collision with van in traffic accident, subsequent encounter"
+367,Drywall & Acoustical (FED),Encounter for examination of ears and hearing
+368,Retaining Wall and Brick Pavers,Nonvenereal syphilis
+369,Framing (Steel),"Vascular anomalies of right eye, unspecified eyelid"
+370,Termite Control,"Other specified injury of dorsal vein of left foot, subsequent encounter"
+371,Roofing (Asphalt),"Unspecified injury of unspecified blood vessel at wrist and hand level of unspecified arm, subsequent encounter"
+372,EIFS,Person on outside of heavy transport vehicle injured in collision with fixed or stationary object in traffic accident
+373,Landscaping & Irrigation,"Unspecified fracture of upper end of unspecified humerus, initial encounter for open fracture"
+374,Elevator,Other superficial bite of elbow
+375,Ornamental Railings,"Unspecified foreign body in trachea causing asphyxiation, sequela"
+376,Electrical and Fire Alarm,"Burn of unspecified degree of left shoulder, sequela"
+377,HVAC,Non-pressure chronic ulcer of right ankle limited to breakdown of skin
+378,Electrical and Fire Alarm,Sprain of left acromioclavicular joint
+379,Overhead Doors,"Radiculopathy, sacral and sacrococcygeal region"
+380,Masonry & Precast,Non-pressure chronic ulcer of right heel and midfoot with fat layer exposed
+381,Exterior Signage,"Traumatic rupture of volar plate of right index finger at metacarpophalangeal and interphalangeal joint, sequela"
+382,"Doors, Frames & Hardware","Implantation cysts of iris, ciliary body or anterior chamber, unspecified eye"
+383,Granite Surfaces,"Orbital myositis, left orbit"
+384,Construction Clean and Final Clean,Burn of third degree of multiple sites of right wrist and hand
+385,Drilled Shafts,Cerebral infarction due to embolism of right posterior cerebral artery
+386,Roofing (Asphalt),Mucocutaneous lymph node syndrome [Kawasaki]
+387,Electrical and Fire Alarm,Driver of heavy transport vehicle injured in collision with heavy transport vehicle or bus in traffic accident
+388,"Doors, Frames & Hardware",Displaced fracture of olecranon process with intraarticular extension of right ulna
+389,Painting & Vinyl Wall Covering,"Burn of unspecified degree of unspecified palm, sequela"
+390,"Doors, Frames & Hardware","Displaced segmental fracture of shaft of ulna, left arm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+391,EIFS,"Immunodeficiency, unspecified"
+392,Exterior Signage,"Pathological fracture, other site, subsequent encounter for fracture with malunion"
+393,Masonry,Superficial foreign body of thigh
+394,Sitework & Site Utilities,"Toxic effect of unspecified snake venom, accidental (unintentional)"
+395,Curb & Gutter,"Unspecified injury of muscle, fascia and tendon of long head of biceps, left arm, initial encounter"
+396,"Doors, Frames & Hardware","Displaced fracture of fifth metatarsal bone, left foot, initial encounter for open fracture"
+397,Granite Surfaces,"Central subluxation of left hip, initial encounter"
+398,Overhead Doors,"Unspecified sprain of unspecified shoulder joint, initial encounter"
+399,Sitework & Site Utilities,"Displaced transverse fracture of left patella, initial encounter for closed fracture"
+400,Construction Clean and Final Clean,"Displaced segmental fracture of shaft of right femur, sequela"
+401,Granite Surfaces,Nonrheumatic tricuspid (valve) insufficiency
+402,Waterproofing & Caulking,Pedal cycle driver injured in collision with other nonmotor vehicle in traffic accident
+403,Glass & Glazing,"Burn of first degree of unspecified site of lower limb, except ankle and foot"
+404,Rebar & Wire Mesh Install,"Nondisplaced intertrochanteric fracture of unspecified femur, subsequent encounter for open fracture type I or II with malunion"
+405,Casework,Fetomaternal placental transfusion syndrome
+406,Elevator,"Nicotine dependence unspecified, with withdrawal"
+407,Waterproofing & Caulking,Contusion of unspecified front wall of thorax
+408,Sitework & Site Utilities,Burn due to merchant ship on fire
+409,Roofing (Asphalt),"Muscle wasting and atrophy, not elsewhere classified, thigh"
+410,Site Furnishings,"Juvenile osteochondrosis of hip and pelvis, unspecified"
+411,Wall Protection,"Laceration without foreign body of left ear, initial encounter"
+412,Framing (Steel),"Infections of bladder in pregnancy, third trimester"
+413,Roofing (Asphalt),"Displaced articular fracture of head of right femur, subsequent encounter for closed fracture with routine healing"
+414,Epoxy Flooring,"Poisoning by iminostilbenes, accidental (unintentional), initial encounter"
+415,Elevator,"Other specified disorders of synovium and tendon, multiple sites"
+416,Retaining Wall and Brick Pavers,"Nondisplaced segmental fracture of shaft of unspecified femur, subsequent encounter for open fracture type I or II with routine healing"
+417,Soft Flooring and Base,"Leakage of ventricular intracranial (communicating) shunt, sequela"
+418,Electrical,"Military operations involving explosion of aerial bomb, military personnel, initial encounter"
+419,Glass & Glazing,"Chronic osteomyelitis with draining sinus, hand"
+420,Retaining Wall and Brick Pavers,"Laceration with foreign body of left index finger without damage to nail, initial encounter"
+421,Rebar & Wire Mesh Install,"Ring corneal ulcer, left eye"
+422,Granite Surfaces,"Injury of lumbar, sacral and pelvic sympathetic nerves, sequela"
+423,Site Furnishings,"Open bite of right thumb without damage to nail, initial encounter"
+424,Asphalt Paving,Laceration without foreign body of vocal cord
+425,Epoxy Flooring,"Laceration of bronchus, unspecified, initial encounter"
+426,Ornamental Railings,"Other private fixed-wing aircraft fire injuring occupant, sequela"
+427,EIFS,"Acute hematogenous osteomyelitis, unspecified site"
+428,Roofing (Metal),Impingement syndrome of left shoulder
+429,Fire Sprinkler System,"Contusion of right front wall of thorax, sequela"
+430,Landscaping & Irrigation,Congenital malformations of spleen
+431,Hard Tile & Stone,"Other fracture of third metacarpal bone, right hand, initial encounter for closed fracture"
+432,Masonry,"Unspecified injury of other muscle(s) and tendon(s) of posterior muscle group at lower leg level, left leg"
+433,Exterior Signage,Displaced fracture of lateral condyle of unspecified tibia
+434,Marlite Panels (FED),Partial traumatic amputation at unspecified hip joint
+435,EIFS,Personal history of malignant neoplasm of cervix uteri
+436,Structural and Misc Steel (Fabrication),Displaced fracture of medial phalanx of right little finger
+437,Structural & Misc Steel Erection,"Unspecified fracture of T7-T8 vertebra, initial encounter for open fracture"
+438,Fire Protection,Squamous cell carcinoma of skin of ear and external auricular canal
+439,Electrical,"Strain of muscle, fascia and tendon of right hip, initial encounter"
+440,Roofing (Metal),"Insect bite (nonvenomous) of nose, subsequent encounter"
+441,Painting & Vinyl Wall Covering,"Laceration with foreign body of unspecified wrist, subsequent encounter"
+442,Fire Protection,Traumatic rupture of other ligament of unspecified finger at metacarpophalangeal and interphalangeal joint
+443,Electrical,"Puncture wound without foreign body of left elbow, sequela"
+444,Painting & Vinyl Wall Covering,"Stenosis of coronary artery stent, sequela"
+445,Fire Sprinkler System,"Mental disorder, not otherwise specified"
+446,Ornamental Railings,"Nondisplaced comminuted fracture of shaft of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+447,"Doors, Frames & Hardware",Neoplasm of uncertain behavior of skin
+448,Electrical and Fire Alarm,"Puncture wound without foreign body of unspecified front wall of thorax without penetration into thoracic cavity, sequela"
+449,Hard Tile & Stone,"Poisoning by unspecified psychostimulants, intentional self-harm"
+450,Site Furnishings,"Other low birth weight newborn, 1000-1249 grams"
+451,Retaining Wall and Brick Pavers,"Balloon collision injuring occupant, sequela"
+452,Wall Protection,"Strain of flexor muscle, fascia and tendon of right middle finger at forearm level, subsequent encounter"
+453,Drywall & Acoustical (MOB),Malignant neoplasm of unspecified round ligament
+454,Epoxy Flooring,"Madarosis of unspecified eye, unspecified eyelid and periocular area"
+455,Overhead Doors,"Juvenile osteochondrosis of spine, site unspecified"
+456,Fire Sprinkler System,"Dysplasia of vulva, unspecified"
+457,Roofing (Metal),Laceration with foreign body of finger without damage to nail
+458,Structural & Misc Steel Erection,"Displaced fracture of head of left radius, initial encounter for open fracture type I or II"
+459,Framing (Wood),"Incomplete lesion of L3 level of lumbar spinal cord, sequela"
+460,Hard Tile & Stone,Laceration without foreign body of other finger with damage to nail
+461,Masonry & Precast,Avulsion and traumatic amputation of part of head
+462,Elevator,"Contusion of other specified intrathoracic organs, subsequent encounter"
+463,Overhead Doors,"Nicotine dependence, unspecified, in remission"
+464,Elevator,"War operations involving fragments from munitions, civilian, subsequent encounter"
+465,Epoxy Flooring,Other mental disorders complicating the puerperium
+466,Termite Control,Other injury due to other accident to sailboat
+467,RF Shielding,Benign lipomatous neoplasm of intrathoracic organs
+468,Prefabricated Aluminum Metal Canopies,"Laceration of other blood vessels at hip and thigh level, unspecified leg, sequela"
+469,Hard Tile & Stone,"Major laceration of unspecified internal jugular vein, subsequent encounter"
+470,Masonry & Precast,"Nondisplaced segmental fracture of shaft of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+471,RF Shielding,"Nondisplaced fracture of medial condyle of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+472,Sitework & Site Utilities,"Other physeal fracture of right calcaneus, initial encounter for closed fracture"
+473,Granite Surfaces,"Absolute glaucoma, left eye"
+474,HVAC,"Person on outside of bus injured in collision with car, pick-up truck or van in nontraffic accident, sequela"
+475,Electrical,"Flexion deformity, unspecified finger joints"
+476,Landscaping & Irrigation,"Unspecified occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle in traffic accident, sequela"
+477,Retaining Wall and Brick Pavers,"Laceration without foreign body, unspecified lower leg, sequela"
+478,Drywall & Acoustical (FED),"Poisoning by other vaccines and biological substances, undetermined, initial encounter"
+479,Marlite Panels (FED),"Nondisplaced unspecified condyle fracture of lower end of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+480,Marlite Panels (FED),"Stress fracture, right toe(s), subsequent encounter for fracture with nonunion"
+481,Electrical and Fire Alarm,"Abrasion, left lesser toe(s)"
+482,Asphalt Paving,Benign prostatic hyperplasia without lower urinary tract symptoms
+483,Marlite Panels (FED),"Other superficial bite of breast, left breast"
+484,Curb & Gutter,Meningismus
+485,Asphalt Paving,"Toxic effect of glycols, intentional self-harm, sequela"
+486,Termite Control,"Minor contusion of unspecified kidney, sequela"
+487,Site Furnishings,"Toxic effect of ethanol, assault"
+488,Roofing (Metal),"Intentional self-harm by drowning and submersion after jump into swimming pool, sequela"
+489,Exterior Signage,Chronic or unspecified gastric ulcer with hemorrhage
+490,Site Furnishings,Displaced fracture of head of left radius
+491,Roofing (Asphalt),"Disease of anus and rectum, unspecified"
+492,Elevator,"Erosion of implanted vaginal mesh to surrounding organ or tissue, subsequent encounter"
+493,Landscaping & Irrigation,"Poisoning by other antacids and anti-gastric-secretion drugs, intentional self-harm, subsequent encounter"
+494,Masonry & Precast,"Exposure to industrial wiring, appliances and electrical machinery, subsequent encounter"
+495,Fire Protection,Nondisplaced segmental fracture of shaft of left tibia
+496,Fire Protection,"Unspecified injury of unspecified blood vessel at lower leg level, left leg, sequela"
+497,HVAC,"Laceration with foreign body of left cheek and temporomandibular area, initial encounter"
+498,Marlite Panels (FED),"Fracture of unspecified shoulder girdle, part unspecified, subsequent encounter for fracture with delayed healing"
+499,Wall Protection,"Visual discomfort, bilateral"
+500,Exterior Signage,"Poisoning by antiallergic and antiemetic drugs, accidental (unintentional)"
+501,Casework,"Preterm labor second trimester with preterm delivery third trimester, fetus 1"
+502,Site Furnishings,Driver of heavy transport vehicle injured in collision with other and unspecified motor vehicles in nontraffic accident
+503,Structural & Misc Steel Erection,"Burn of second degree of back of unspecified hand, initial encounter"
+504,Electrical,Neonatal urinary tract infection
+505,Structural & Misc Steel Erection,Calicivirus enteritis
+506,Drilled Shafts,"Displaced fracture of fifth metatarsal bone, unspecified foot, subsequent encounter for fracture with routine healing"
+507,Construction Clean and Final Clean,Non-in- line roller-skate accident
+508,Construction Clean and Final Clean,"Person boarding or alighting a three-wheeled motor vehicle injured in collision with car, pick-up truck or van, initial encounter"
+509,Framing (Steel),Breast implant status
+510,Landscaping & Irrigation,"Exposure of graft of urinary organ, sequela"
+511,Fire Protection,Family history of blindness and visual loss
+512,Waterproofing & Caulking,"Accidental discharge of other gas, air or spring-operated gun, subsequent encounter"
+513,Drywall & Acoustical (FED),Other specified diseases of esophagus
+514,Plumbing & Medical Gas,"Other nondisplaced fracture of upper end of unspecified humerus, subsequent encounter for fracture with malunion"
+515,Fire Sprinkler System,Open bite of lower back and pelvis with penetration into retroperitoneum
+516,Marlite Panels (FED),Rubella with neurological complications
+517,Hard Tile & Stone,Other dislocation of right ulnohumeral joint
+518,Painting & Vinyl Wall Covering,"Unspecified occupant of pick-up truck or van injured in collision with pedal cycle in nontraffic accident, subsequent encounter"
+519,Drywall & Acoustical (FED),"Assault by antipersonnel bomb, initial encounter"
+520,Marlite Panels (FED),"Chronic multifocal osteomyelitis, unspecified hand"
+521,Soft Flooring and Base,Partial loss of teeth due to caries
+522,Drywall & Acoustical (FED),"Nondisplaced fracture of lateral condyle of right femur, sequela"
+523,Ornamental Railings,Postprocedural stenosis of left external ear canal
+524,Termite Control,"Superficial foreign body of penis, sequela"
+525,Drilled Shafts,Anomalous portal venous connection
+526,Casework,"Other fracture of shaft of radius, right arm, subsequent encounter for closed fracture with nonunion"
+527,Wall Protection,"Poisoning by thyroid hormones and substitutes, assault, subsequent encounter"
+528,Structural and Misc Steel (Fabrication),Neoplasm of unspecified behavior of bladder
+529,Roofing (Metal),"Other specified diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, right eye"
+530,Structural and Misc Steel (Fabrication),"Poisoning by other hormones and synthetic substitutes, assault, sequela"
+531,Hard Tile & Stone,"Atypical femoral fracture, unspecified"
+532,"Temp Fencing, Decorative Fencing and Gates",Non-pressure chronic ulcer of skin of other sites with necrosis of muscle
+533,Retaining Wall and Brick Pavers,"Toxic effect of strychnine and its salts, undetermined"
+534,Termite Control,"Toxic effect of beryllium and its compounds, accidental (unintentional), subsequent encounter"
+535,Granite Surfaces,"Displaced fracture of lateral condyle of left tibia, subsequent encounter for closed fracture with nonunion"
+536,Electrical and Fire Alarm,"Other intraoperative complications and disorders of the ear and mastoid process, not elsewhere classified"
+537,Sitework & Site Utilities,Laceration of duodenum
+538,Casework,"Sprain of unspecified collateral ligament of left knee, subsequent encounter"
+539,Fire Sprinkler System,"Other specified intracranial injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter"
+540,Landscaping & Irrigation,Dislocation of radiocarpal joint of right wrist
+541,Framing (Wood),"Other specified bursopathies, unspecified elbow"
+542,Landscaping & Irrigation,"Adverse effect of antivaricose drugs, including sclerosing agents, subsequent encounter"
+543,Granite Surfaces,Accessory finger(s)
+544,Termite Control,"Contusion of left knee, sequela"
+545,Painting & Vinyl Wall Covering,"Acute (reversible) ischemia of intestine, part and extent unspecified"
+546,RF Shielding,"Other adverse effects, not elsewhere classified, sequela"
+547,Epoxy Flooring,"Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, unspecified eye"
+548,Exterior Signage,"Toxic effect of ingested berries, intentional self-harm, sequela"
+549,Roofing (Asphalt),"Person on outside of three-wheeled motor vehicle injured in collision with pedal cycle in traffic accident, initial encounter"
+550,Construction Clean and Final Clean,"Other secondary osteonecrosis, pelvis"
+551,Rebar & Wire Mesh Install,"Unspecified acute reaction to foreign substance accidentally left during a procedure, subsequent encounter"
+552,Roofing (Metal),"Wedge compression fracture of third thoracic vertebra, initial encounter for open fracture"
+553,Landscaping & Irrigation,Other psychoactive substance dependence with psychoactive substance-induced persisting dementia
+554,Painting & Vinyl Wall Covering,"Contact with other commercial machinery, subsequent encounter"
+555,Granite Surfaces,"Coma scale, best verbal response, incomprehensible words, 24 hours or more after hospital admission"
+556,Casework,Newborn affected by unspecified morphological and functional abnormalities of placenta
+557,Hard Tile & Stone,Carbuncle of unspecified hand
+558,Granite Surfaces,"Burn of unspecified degree of unspecified foot, sequela"
+559,Masonry & Precast,Scarlet fever
+560,Painting & Vinyl Wall Covering,"Adult physical abuse, confirmed"
+561,Drywall & Acoustical (FED),"Person injured in collision between other specified motor vehicles (traffic), subsequent encounter"
+562,Waterproofing & Caulking,"Other fracture of shaft of left femur, subsequent encounter for closed fracture with nonunion"
+563,"Doors, Frames & Hardware","Burn of third degree of left elbow, subsequent encounter"
+564,Termite Control,"Other specified disorders of bone density and structure, unspecified site"
+565,Curb & Gutter,Physeal fracture of lower end of humerus
+566,Drilled Shafts,Abnormal chromosomal and genetic finding on antenatal screening of mother
+567,Framing (Wood),"Exposure to domestic wiring and appliances, initial encounter"
+568,Framing (Steel),"Toxic effect of tobacco cigarettes, accidental (unintentional)"
+569,Overhead Doors,"Poisoning by other bacterial vaccines, accidental (unintentional)"
+570,Rebar & Wire Mesh Install,"Other osteoporosis with current pathological fracture, left shoulder, initial encounter for fracture"
+571,Electrical and Fire Alarm,"Driver of special industrial vehicle injured in nontraffic accident, subsequent encounter"
+572,"Doors, Frames & Hardware",Abnormal innervation syndrome left lower eyelid
+573,Fire Sprinkler System,"Laceration of other flexor muscle, fascia and tendon at forearm level"
+574,Masonry & Precast,"Nondisplaced transverse fracture of shaft of left ulna, initial encounter for open fracture type I or II"
+575,Prefabricated Aluminum Metal Canopies,"Injury of other nerves at forearm level, unspecified arm, sequela"
+576,Framing (Steel),Adenoviral enteritis
+577,Framing (Steel),Unspecified open wound of left ring finger with damage to nail
+578,Landscaping & Irrigation,"Partial traumatic amputation of right shoulder and upper arm, level unspecified"
+579,Structural & Misc Steel Erection,Direct infection of unspecified elbow in infectious and parasitic diseases classified elsewhere
+580,Curb & Gutter,"Accidental malfunction of other larger firearm, subsequent encounter"
+581,EIFS,Other specified postprocedural states
+582,RF Shielding,"Other specified bursopathies, wrist"
+583,Termite Control,Fracture of unspecified phalanx of left thumb
+584,Framing (Steel),"Displaced segmental fracture of shaft of left femur, subsequent encounter for closed fracture with malunion"
+585,Structural & Misc Steel Erection,"Poisoning by other antidepressants, assault, sequela"
+586,Masonry,Malignant neoplasm of adrenal gland
+587,Site Furnishings,"Congenital kyphosis, unspecified region"
+588,Construction Clean and Final Clean,"Moderate laceration of left kidney, subsequent encounter"
+589,Waterproofing & Caulking,Personal history of neoplasm of uncertain behavior
+590,Casework,Irritable bowel syndrome with diarrhea
+591,"Doors, Frames & Hardware","War operations involving flamethrower, military personnel, subsequent encounter"
+592,Structural and Misc Steel (Fabrication),Laceration without foreign body of unspecified part of thorax
+593,Painting & Vinyl Wall Covering,"Other fracture of shaft of right femur, subsequent encounter for open fracture type I or II with routine healing"
+594,Hard Tile & Stone,"Unspecified fracture of upper end of right radius, subsequent encounter for open fracture type I or II with malunion"
+595,Casework,"Other chronic osteomyelitis, unspecified shoulder"
+596,Electrical,"Nondisplaced fracture of coronoid process of left ulna, subsequent encounter for closed fracture with delayed healing"
+597,Termite Control,Acute infarction of large intestine
+598,Termite Control,"Chloasma of right eye, unspecified eyelid and periocular area"
+599,Drywall & Acoustical (MOB),"Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, right eye"
+600,Rebar & Wire Mesh Install,Puncture wound without foreign body of left thumb with damage to nail
+601,Termite Control,"Unspecified subluxation of left shoulder joint, initial encounter"
+602,Plumbing & Medical Gas,Other behavioral and emotional disorders with onset usually occurring in childhood and adolescence
+603,Casework,"Laceration of muscle(s) and tendon(s) of anterior muscle group at lower leg level, left leg, subsequent encounter"
+604,Landscaping & Irrigation,"Unspecified fracture of right wrist and hand, subsequent encounter for fracture with nonunion"
+605,Framing (Steel),"Nondisplaced comminuted fracture of shaft of radius, right arm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+606,Granite Surfaces,"Muscle wasting and atrophy, not elsewhere classified, right upper arm"
+607,Masonry,"Pathological fracture in neoplastic disease, right shoulder, subsequent encounter for fracture with routine healing"
+608,Drilled Shafts,Extravaginal torsion of spermatic cord
+609,Fire Sprinkler System,"Pathological fracture, left radius, subsequent encounter for fracture with delayed healing"
+610,Rebar & Wire Mesh Install,Postthrombotic syndrome with ulcer and inflammation of left lower extremity
+611,"Temp Fencing, Decorative Fencing and Gates",Superficial foreign body of unspecified part of head
+612,Fire Protection,"Surgical instruments, materials and general- and plastic-surgery devices (including sutures) associated with adverse incidents"
+613,Wall Protection,"Laceration with foreign body of other part of head, initial encounter"
+614,Overhead Doors,"Drowning and submersion due to canoe or kayak sinking, subsequent encounter"
+615,Drywall & Acoustical (MOB),"Animal-rider injured in collision with streetcar, sequela"
+616,Masonry,"Leakage of other nervous system device, implant or graft, sequela"
+617,Prefabricated Aluminum Metal Canopies,"Nondisplaced longitudinal fracture of right patella, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+618,Structural & Misc Steel Erection,"Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of inguinal region and lower limb"
+619,Framing (Wood),"Maternal care for breech presentation, fetus 1"
+620,HVAC,"Injury of left uterine artery, subsequent encounter"
+621,Curb & Gutter,"Endocrine, nutritional and metabolic diseases complicating pregnancy, second trimester"
+622,Wall Protection,"2-part nondisplaced fracture of surgical neck of left humerus, subsequent encounter for fracture with routine healing"
+623,Fire Sprinkler System,"Activity, winds and brass instrument playing"
+624,Roofing (Asphalt),"Synovial hypertrophy, not elsewhere classified, left forearm"
+625,Ornamental Railings,"Fracture of condylar process of mandible, unspecified side, initial encounter for open fracture"
+626,Elevator,"Major laceration of unspecified kidney, initial encounter"
+627,Electrical and Fire Alarm,"Nondisplaced fracture of lesser tuberosity of right humerus, subsequent encounter for fracture with nonunion"
+628,Curb & Gutter,Conjunctivitis due to Acanthamoeba
+629,Wall Protection,"Nondisplaced fracture of proximal phalanx of other finger, subsequent encounter for fracture with delayed healing"
+630,Rebar & Wire Mesh Install,"Corrosion of unspecified degree of single left finger (nail) except thumb, sequela"
+631,Asphalt Paving,Nondisplaced fracture of sternal end of left clavicle
+632,Termite Control,"Toxic effect of tetrachloroethylene, accidental (unintentional), subsequent encounter"
+633,HVAC,"Other specified disorders of bone density and structure, shoulder"
+634,Structural & Misc Steel Erection,Abnormal posture
+635,Sitework & Site Utilities,"Exposure of implanted ureteral bulking agent into ureter, initial encounter"
+636,Curb & Gutter,"Malignant melanoma of eyelid, including canthus"
+637,HVAC,"Driver of three-wheeled motor vehicle injured in noncollision transport accident in traffic accident, sequela"
+638,Drywall & Acoustical (FED),Toxic effects of glycols
+639,Elevator,"Poisoning by histamine H2-receptor blockers, assault"
+640,Drywall & Acoustical (FED),"Newborn small for gestational age, 1500-1749 grams"
+641,Casework,"Spontaneous rupture of extensor tendons, unspecified lower leg"
+642,Fire Sprinkler System,Other otitis externa
+643,Marlite Panels (FED),"Activity, exercise machines primarily for muscle strengthening"
+644,HVAC,"Puncture wound of abdominal wall without foreign body, left lower quadrant without penetration into peritoneal cavity, initial encounter"
+645,Framing (Steel),"Chronic hepatitis, not elsewhere classified"
+646,Asphalt Paving,"Corrosion of third degree of nose (septum), initial encounter"
+647,Curb & Gutter,Person boarding or alighting a pedal cycle injured in collision with railway train or railway vehicle
+648,EIFS,"Partial traumatic amputation of penis, initial encounter"
+649,Sitework & Site Utilities,Struck by basketball
+650,Landscaping & Irrigation,"Low-tension glaucoma, right eye, indeterminate stage"
+651,Termite Control,Pain in throat
+652,Overhead Doors,"Laceration without foreign body of right ring finger without damage to nail, sequela"
+653,Structural & Misc Steel Erection,"Brown-Sequard syndrome at C8 level of cervical spinal cord, subsequent encounter"
+654,Hard Tile & Stone,"Partial traumatic metacarpophalangeal amputation of left middle finger, subsequent encounter"
+655,Epoxy Flooring,"Burn of first degree of multiple sites of left ankle and foot, sequela"
+656,Curb & Gutter,Unspecified displaced fracture of first cervical vertebra
+657,Marlite Panels (FED),"Laceration of muscle(s) and tendon(s) of peroneal muscle group at lower leg level, left leg, sequela"
+658,Casework,"Poisoning by, adverse effect of and underdosing of other specified systemic anti-infectives and antiparasitics"
+659,"Temp Fencing, Decorative Fencing and Gates","Unspecified dislocation of left wrist and hand, initial encounter"
+660,Fire Protection,Pilonidal cyst and sinus with abscess
+661,Electrical and Fire Alarm,Burn of unspecified degree of unspecified wrist
+662,Asphalt Paving,"Poisoning by carbonic-anhydrase inhibitors, benzothiadiazides and other diuretics, assault, initial encounter"
+663,Soft Flooring and Base,"Pedal cycle driver injured in collision with other nonmotor vehicle in traffic accident, sequela"
+664,Waterproofing & Caulking,Unspecified car occupant injured in collision with pedal cycle in nontraffic accident
+665,Termite Control,"Unspecified traumatic displaced spondylolisthesis of fifth cervical vertebra, subsequent encounter for fracture with routine healing"
+666,Roofing (Asphalt),"Puncture wound without foreign body of unspecified great toe without damage to nail, sequela"
+667,Fire Protection,"Toxic effect of other metals, assault"
+668,Electrical and Fire Alarm,"Adverse effect of other viral vaccines, subsequent encounter"
+669,Rebar & Wire Mesh Install,"Other injury of muscle, fascia and tendon of other parts of biceps, left arm, subsequent encounter"
+670,Fire Sprinkler System,"Venous engorgement, unspecified eye"
+671,Overhead Doors,"Fall into natural body of water striking water surface causing drowning and submersion, initial encounter"
+672,Construction Clean and Final Clean,17 weeks gestation of pregnancy
+673,Ornamental Railings,"Other allergy, initial encounter"
+674,Prefabricated Aluminum Metal Canopies,"Other stimulant use, unspecified with stimulant-induced sleep disorder"
+675,Fire Sprinkler System,"Salter-Harris Type III physeal fracture of upper end of radius, right arm, initial encounter for closed fracture"
+676,Drilled Shafts,Hyperosmolality and hypernatremia
+677,Casework,Fracture of tooth (traumatic)
+678,Painting & Vinyl Wall Covering,"Acute mastoiditis without complications, left ear"
+679,Roofing (Metal),Open wound of back wall of thorax without penetration into thoracic cavity
+680,Glass & Glazing,"Oligohydramnios, second trimester, fetus 1"
+681,Granite Surfaces,Postprocedural hematoma of right eye and adnexa following an ophthalmic procedure
+682,Curb & Gutter,"Dislocation of interphalangeal joint of unspecified great toe, subsequent encounter"
+683,EIFS,Displaced transverse fracture of shaft of left tibia
+684,Asphalt Paving,Sequelae of vitamin A deficiency
+685,Masonry & Precast,Abuse of vitamins
+686,Retaining Wall and Brick Pavers,"Displaced fracture of medial wall of right acetabulum, subsequent encounter for fracture with routine healing"
+687,Wall Protection,Respiratory conditions due to smoke inhalation
+688,Granite Surfaces,"Nondisplaced fracture of lateral end of left clavicle, subsequent encounter for fracture with delayed healing"
+689,Roofing (Asphalt),"Nondisplaced pilon fracture of left tibia, subsequent encounter for closed fracture with malunion"
+690,Exterior Signage,Spontaneous rupture of flexor tendons
+691,Waterproofing & Caulking,"Struck by object due to collapse of building, initial encounter"
+692,Marlite Panels (FED),"Displaced fracture of base of fifth metacarpal bone, right hand, subsequent encounter for fracture with malunion"
+693,Framing (Steel),"Other superficial bite of left thigh, subsequent encounter"
+694,Granite Surfaces,Blastomycosis
+695,Framing (Steel),"Myositis ossificans traumatica, lower leg"
+696,Electrical and Fire Alarm,Dislocation of distal interphalangeal joint of left index finger
+697,Plumbing & Medical Gas,"Unilateral femoral hernia, with gangrene"
+698,Framing (Steel),Open bite of toe with damage to nail
+699,Roofing (Asphalt),Striking against or struck by automobile airbag
+700,Casework,Nephrotic syndrome with diffuse endocapillary proliferative glomerulonephritis
+701,Curb & Gutter,"Burn of second degree of back of unspecified hand, initial encounter"
+702,Structural & Misc Steel Erection,Nonspecific low blood-pressure reading
+703,HVAC,"Puncture wound without foreign body of right back wall of thorax without penetration into thoracic cavity, initial encounter"
+704,Electrical,"Contusion of fallopian tube, unilateral, subsequent encounter"
+705,"Doors, Frames & Hardware","Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, unspecified eye"
+706,Glass & Glazing,Injury of unspecified blood vessel at lower leg level
+707,Site Furnishings,"Unspecified physeal fracture of phalanx of unspecified toe, initial encounter for open fracture"
+708,Roofing (Metal),"Synovial hypertrophy, not elsewhere classified, forearm"
+709,Fire Protection,"Unspecified subluxation of right ulnohumeral joint, sequela"
+710,RF Shielding,"Degeneration of ciliary body, right eye"
+711,Masonry & Precast,"Cannabis abuse with psychotic disorder, unspecified"
+712,Termite Control,"Displaced segmental fracture of shaft of right femur, subsequent encounter for closed fracture with delayed healing"
+713,Framing (Steel),"Underdosing of keratolytics, keratoplastics, and other hair treatment drugs and preparations, initial encounter"
+714,Fire Sprinkler System,Congenital alopecia
+715,Waterproofing & Caulking,"Unspecified subluxation of unspecified foot, sequela"
+716,Structural & Misc Steel Erection,Unspecified car occupant injured in collision with other and unspecified motor vehicles in nontraffic accident
+717,Waterproofing & Caulking,Hypersensitivity pneumonitis due to other organic dusts
+718,Prefabricated Aluminum Metal Canopies,"Laceration without foreign body, left lower leg"
+719,Soft Flooring and Base,"Erosion of other prosthetic materials to surrounding organ or tissue, initial encounter"
+720,Overhead Doors,"Poisoning by chloramphenicol group, undetermined, sequela"
+721,Fire Sprinkler System,"Superficial foreign body, right lower leg"
+722,Structural & Misc Steel Erection,"Primary open-angle glaucoma, left eye, mild stage"
+723,Drilled Shafts,"Unspecified injury of ovary, unspecified"
+724,Structural and Misc Steel (Fabrication),"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, sequela"
+725,Roofing (Asphalt),"Crushing injury of unspecified external genital organs, male, initial encounter"
+726,Roofing (Asphalt),"Foreign body in conjunctival sac, unspecified eye, initial encounter"
+727,"Doors, Frames & Hardware",Other subluxation and dislocation of shoulder joint
+728,Curb & Gutter,"Chondromalacia patellae, right knee"
+729,Marlite Panels (FED),Speech and language deficits following other nontraumatic intracranial hemorrhage
+730,Roofing (Metal),"Osteitis deformans in neoplastic diseases, right ankle and foot"
+731,Wall Protection,"Fracture of orbital floor, left side, initial encounter for open fracture"
+732,Glass & Glazing,"Other injury of extensor muscle, fascia and tendon of left little finger at wrist and hand level, subsequent encounter"
+733,Electrical,"Arthropathies in other specified diseases classified elsewhere, left hand"
+734,Soft Flooring and Base,"Laceration of other extensor muscle, fascia and tendon at forearm level"
+735,Wall Protection,Family history of other infectious and parasitic diseases
+736,Waterproofing & Caulking,Radiation proctitis
+737,Exterior Signage,Malignant neoplasm of lower-inner quadrant of unspecified male breast
+738,Painting & Vinyl Wall Covering,Dislocation of unspecified parts of right shoulder girdle
+739,Prefabricated Aluminum Metal Canopies,"Nondisplaced unspecified condyle fracture of lower end of left femur, subsequent encounter for closed fracture with routine healing"
+740,Epoxy Flooring,"Other fracture of fourth lumbar vertebra, initial encounter for open fracture"
+741,Rebar & Wire Mesh Install,"Laceration of intrinsic muscle and tendon at ankle and foot level, left foot, subsequent encounter"
+742,Landscaping & Irrigation,"Assault by antipersonnel bomb, initial encounter"
+743,Curb & Gutter,Intervertebral disc stenosis of neural canal
+744,Structural and Misc Steel (Fabrication),"Syphilis complicating pregnancy, childbirth and the puerperium"
+745,Sitework & Site Utilities,"Glaucoma secondary to eye trauma, unspecified eye"
+746,Marlite Panels (FED),Displaced fracture of navicular [scaphoid] of left foot
+747,Framing (Steel),"Contusion and laceration of right cerebrum with loss of consciousness of 31 minutes to 59 minutes, initial encounter"
+748,Landscaping & Irrigation,"Toxic effect of nitrogen oxides, accidental (unintentional), sequela"
+749,Hard Tile & Stone,"Abrasion of unspecified thumb, subsequent encounter"
+750,Hard Tile & Stone,"Blister (nonthermal) of right ear, subsequent encounter"
+751,Prefabricated Aluminum Metal Canopies,"Legal intervention involving injury by rifle pellet, bystander injured"
+752,Roofing (Metal),"Nondisplaced segmental fracture of shaft of unspecified fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+753,Marlite Panels (FED),Other superficial bite of penis
+754,Construction Clean and Final Clean,Cytomegaloviral pneumonitis
+755,Curb & Gutter,Connective tissue stenosis of neural canal of rib cage
+756,Construction Clean and Final Clean,"Strain of intrinsic muscle, fascia and tendon of left little finger at wrist and hand level, subsequent encounter"
+757,Fire Sprinkler System,Mucocele of salivary gland
+758,Hard Tile & Stone,"Term delivery with preterm labor, third trimester, fetus 5"
+759,Wall Protection,"Transient ischemic deafness, left ear"
+760,Construction Clean and Final Clean,Malignant melanoma of left ear and external auricular canal
+761,Structural and Misc Steel (Fabrication),"Poisoning by other antipsychotics and neuroleptics, undetermined, sequela"
+762,Framing (Steel),Contusion of lower back and pelvis
+763,Drywall & Acoustical (MOB),"Other specified disorders of cartilage, lower leg"
+764,Electrical and Fire Alarm,Primary biliary cirrhosis
+765,Drilled Shafts,"Hit by object falling from aircraft, sequela"
+766,Structural and Misc Steel (Fabrication),Dependence on aspirator
+767,Ornamental Railings,"Anterior dislocation of proximal end of tibia, unspecified knee, sequela"
+768,"Temp Fencing, Decorative Fencing and Gates","Other disorders of optic nerve, not elsewhere classified, unspecified eye"
+769,Framing (Steel),Uncongenial work environment
+770,Soft Flooring and Base,Burn of first degree of single right finger (nail) except thumb
+771,Masonry,"Pressure ulcer of left ankle, unspecified stage"
+772,Framing (Wood),"Poisoning by, adverse effect of and underdosing of antimycobacterial drugs"
+773,Framing (Steel),"Prolymphocytic leukemia of T-cell type, in relapse"
+774,Structural & Misc Steel Erection,"Contusion of left forearm, initial encounter"
+775,Drywall & Acoustical (MOB),Other contact with rat
+776,Asphalt Paving,"Juvenile osteochondrosis of patella, unspecified knee"
+777,Curb & Gutter,"Displaced fracture of neck of second metacarpal bone, left hand, initial encounter for closed fracture"
+778,Plumbing & Medical Gas,"Driver of heavy transport vehicle injured in collision with pedal cycle in nontraffic accident, subsequent encounter"
+779,Drywall & Acoustical (FED),"Superficial thrombophlebitis in pregnancy, unspecified trimester"
+780,Ornamental Railings,"Strain of flexor muscle, fascia and tendon of right little finger at forearm level, subsequent encounter"
+781,Asphalt Paving,Underdosing of other vaccines and biological substances
+782,Casework,Maternal care for viable fetus in abdominal pregnancy
+783,Rebar & Wire Mesh Install,"Person boarding or alighting a motorcycle injured in collision with two- or three-wheeled motor vehicle, initial encounter"
+784,Hard Tile & Stone,"Bucket-handle tear of lateral meniscus, current injury, left knee, subsequent encounter"
+785,Ornamental Railings,Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy
+786,Prefabricated Aluminum Metal Canopies,"Injury of conjunctiva and corneal abrasion without foreign body, left eye, subsequent encounter"
+787,Drilled Shafts,Occupant of railway train or railway vehicle injured in other specified railway accidents
+788,Drywall & Acoustical (FED),"Anterior scleritis, right eye"
+789,Framing (Wood),"Poisoning by other agents primarily affecting gastrointestinal system, accidental (unintentional), initial encounter"
+790,Overhead Doors,Laceration with foreign body of ear
+791,Rebar & Wire Mesh Install,"Military operations involving gasoline bomb, military personnel, sequela"
+792,Curb & Gutter,"Pathological fracture in other disease, left radius, initial encounter for fracture"
+793,Masonry & Precast,"Activity, gardening and landscaping"
+794,Masonry,"Animal-rider injured in collision with other specified motor vehicle, sequela"
+795,HVAC,Other noninflammatory disorders of vulva and perineum
+796,Structural and Misc Steel (Fabrication),Other foreign object in esophagus causing compression of trachea
+797,Painting & Vinyl Wall Covering,"Passenger of snowmobile injured in traffic accident, sequela"
+798,Framing (Steel),"Central retinal vein occlusion, right eye"
+799,Asphalt Paving,"Other mechanical complication of internal fixation device of other bones, subsequent encounter"
+800,RF Shielding,"Fracture of unspecified tarsal bone(s) of right foot, initial encounter for closed fracture"
+801,"Temp Fencing, Decorative Fencing and Gates","Nondisplaced fracture of lunate [semilunar], unspecified wrist, subsequent encounter for fracture with nonunion"
+802,Drywall & Acoustical (FED),"Laceration without foreign body of left great toe without damage to nail, sequela"
+803,Epoxy Flooring,Drowning and submersion due to fall off passenger ship
+804,Waterproofing & Caulking,Periprosthetic osteolysis of internal prosthetic left knee joint
+805,Drilled Shafts,"Dislocation of unspecified interphalangeal joint of left middle finger, initial encounter"
+806,Curb & Gutter,"Nondisplaced fracture of unspecified radial styloid process, subsequent encounter for open fracture type I or II with nonunion"
+807,Termite Control,Malignant neoplasm of unspecified cornea
+808,Fire Protection,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other sharp object, sequela"
+809,Glass & Glazing,Unspecified traumatic nondisplaced spondylolisthesis of fifth cervical vertebra
+810,Fire Sprinkler System,"Chorioamnionitis, second trimester, fetus 5"
+811,"Doors, Frames & Hardware","Vitreous hemorrhage, unspecified eye"
+812,Asphalt Paving,Newborn affected by other morphological and functional abnormalities of placenta
+813,EIFS,"Pain due to vascular prosthetic devices, implants and grafts, sequela"
+814,Epoxy Flooring,"Nondisplaced trimalleolar fracture of unspecified lower leg, sequela"
+815,Wall Protection,Carcinoma in situ of breast
+816,Waterproofing & Caulking,Unspecified fracture of fourth cervical vertebra
+817,Structural and Misc Steel (Fabrication),"Poisoning by digestants, intentional self-harm"
+818,Structural & Misc Steel Erection,Traumatic compartment syndrome of right lower extremity
+819,Structural & Misc Steel Erection,"Complete traumatic amputation at elbow level, left arm, sequela"
+820,Waterproofing & Caulking,"Secondary osteoarthritis, right hand"
+821,Fire Protection,"Poisoning by peripheral vasodilators, undetermined, sequela"
+822,RF Shielding,Unspecified place in mobile home as the place of occurrence of the external cause
+823,"Temp Fencing, Decorative Fencing and Gates",Other specified type of carcinoma in situ of right breast
+824,Electrical and Fire Alarm,Unspecified intracranial injury
+825,RF Shielding,"Burn of unspecified internal organ, initial encounter"
+826,Hard Tile & Stone,Drug or chemical induced diabetes mellitus with hypoglycemia without coma
+827,Termite Control,"Monteggia's fracture of unspecified ulna, subsequent encounter for closed fracture with nonunion"
+828,Drywall & Acoustical (MOB),"Poisoning by, adverse effect of and underdosing of anesthetics and therapeutic gases"
+829,Construction Clean and Final Clean,"Other injury of other muscles, fascia and tendons at shoulder and upper arm level, right arm, sequela"
+830,Ornamental Railings,"Nondisplaced segmental fracture of shaft of humerus, right arm, subsequent encounter for fracture with malunion"
+831,Casework,Other incomplete lesion at unspecified level of cervical spinal cord
+832,Fire Sprinkler System,Congenital malformations of nose
+833,Retaining Wall and Brick Pavers,"Insect bite (nonvenomous) of breast, unspecified breast"
+834,Soft Flooring and Base,Dislocation of tarsometatarsal joint of left foot
+835,Site Furnishings,"Other injury of pleura, subsequent encounter"
+836,Exterior Signage,"2-part nondisplaced fracture of surgical neck of unspecified humerus, sequela"
+837,Granite Surfaces,"Other physeal fracture of upper end of unspecified fibula, subsequent encounter for fracture with malunion"
+838,RF Shielding,"Other superficial bite of hip, right hip"
+839,Prefabricated Aluminum Metal Canopies,"Other fracture of shaft of unspecified humerus, subsequent encounter for fracture with malunion"
+840,Site Furnishings,"Posterior dislocation of unspecified sternoclavicular joint, sequela"
+841,Plumbing & Medical Gas,"Other extraarticular fracture of lower end of unspecified radius, subsequent encounter for closed fracture with nonunion"
+842,Fire Sprinkler System,"Osteitis condensans, lower leg"
+843,Prefabricated Aluminum Metal Canopies,"Other fracture of unspecified talus, subsequent encounter for fracture with malunion"
+844,Marlite Panels (FED),Torus fracture of lower end of right radius
+845,Roofing (Asphalt),"Obstructed labor due to other malposition and malpresentation, fetus 4"
+846,Framing (Wood),"Other specified injury of unspecified blood vessel at wrist and hand of left arm, subsequent encounter"
+847,"Doors, Frames & Hardware","Laceration with foreign body of penis, subsequent encounter"
+848,"Doors, Frames & Hardware","Displaced fracture of neck of second metacarpal bone, left hand, initial encounter for open fracture"
+849,Site Furnishings,"Displaced fracture of body of right calcaneus, subsequent encounter for fracture with malunion"
+850,Curb & Gutter,"Chronic postrheumatic arthropathy [Jaccoud], hip"
+851,Sitework & Site Utilities,"Corrosion of third degree of right knee, sequela"
+852,Electrical and Fire Alarm,Inguinal hernia
+853,Waterproofing & Caulking,Unspecified traumatic nondisplaced spondylolisthesis of third cervical vertebra
+854,Prefabricated Aluminum Metal Canopies,"Other embolism in pregnancy, first trimester"
+855,Painting & Vinyl Wall Covering,"Laceration of ulnar artery at forearm level, unspecified arm, initial encounter"
+856,Curb & Gutter,Rheumatoid arthritis with involvement of other organs and systems
+857,"Temp Fencing, Decorative Fencing and Gates","Puncture wound without foreign body of unspecified wrist, subsequent encounter"
+858,Exterior Signage,"Unspecified open wound of right ear, subsequent encounter"
+859,Masonry & Precast,"Laceration without foreign body of left little finger without damage to nail, initial encounter"
+860,Site Furnishings,"Contusion of right back wall of thorax, sequela"
+861,Elevator,"Full-term premature rupture of membranes, onset of labor more than 24 hours following rupture"
+862,Roofing (Asphalt),"Strain of flexor muscle, fascia and tendon of unspecified finger at wrist and hand level, initial encounter"
+863,Roofing (Metal),"Congenital dislocation of unspecified hip, unilateral"
+864,Elevator,"Partial traumatic transmetacarpal amputation of unspecified hand, subsequent encounter"
+865,Retaining Wall and Brick Pavers,Struck by baseball bat
+866,Asphalt Paving,Car driver injured in collision with van in traffic accident
+867,Roofing (Metal),Posterior dislocation of unspecified humerus
+868,HVAC,"Disease of Bartholin's gland, unspecified"
+869,Landscaping & Irrigation,Toxic effect of latex
+870,EIFS,"Partial traumatic transphalangeal amputation of right thumb, subsequent encounter"
+871,Sitework & Site Utilities,"Unspecified injury of deep palmar arch of left hand, sequela"
+872,Structural and Misc Steel (Fabrication),"Poisoning by other hormone antagonists, assault"
+873,Masonry & Precast,Displaced supracondylar fracture without intracondylar extension of lower end of left femur
+874,Hard Tile & Stone,"Partial traumatic amputation at level between unspecified hip and knee, subsequent encounter"
+875,Overhead Doors,"Disorder of vein, unspecified"
+876,Elevator,"Delayed delivery of second twin, triplet, etc."
+877,Plumbing & Medical Gas,Sprain of metacarpophalangeal joint of right ring finger
+878,Fire Protection,"Other mechanical complication of internal fixation device of bone of left lower leg, subsequent encounter"
+879,Overhead Doors,"Corrosion of unspecified degree of neck, sequela"
+880,Masonry,"Galeazzi's fracture of left radius, sequela"
+881,Site Furnishings,Burn of first degree of left palm
+882,Marlite Panels (FED),"Arthropathy following intestinal bypass, right shoulder"
+883,Exterior Signage,"Laceration without foreign body of right back wall of thorax with penetration into thoracic cavity, sequela"
+884,EIFS,"Minor opacity of cornea, left eye"
+885,Fire Sprinkler System,"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, subsequent encounter"
+886,Waterproofing & Caulking,"Osteitis condensans, right ankle and foot"
+887,Exterior Signage,"Poisoning by tetracyclic antidepressants, accidental (unintentional), sequela"
+888,Overhead Doors,"Toxic effect of cadmium and its compounds, intentional self-harm, sequela"
+889,Plumbing & Medical Gas,"Superficial foreign body, unspecified foot, initial encounter"
+890,Electrical,Malignant neoplasm of right choroid
+891,Framing (Wood),"Unspecified superficial injury of left foot, sequela"
+892,Epoxy Flooring,"Displaced longitudinal fracture of right patella, subsequent encounter for closed fracture with delayed healing"
+893,Epoxy Flooring,Laceration of muscle and tendon of unspecified wall of thorax
+894,Drywall & Acoustical (MOB),"Displaced oblique fracture of shaft of right femur, subsequent encounter for closed fracture with delayed healing"
+895,RF Shielding,"Idiopathic interstitial pneumonia, not otherwise specified"
+896,Termite Control,Toxic effects of dichloromethane
+897,Ornamental Railings,"Poisoning by otorhinolaryngological drugs and preparations, intentional self-harm, initial encounter"
+898,Wall Protection,"Cicatricial ectropion of right eye, unspecified eyelid"
+899,Overhead Doors,Dissection of abdominal aorta
+900,Marlite Panels (FED),"Kayser-Fleischer ring, bilateral"
+901,Curb & Gutter,"Laceration of extensor muscle, fascia and tendon of unspecified thumb at wrist and hand level"
+902,RF Shielding,"Corrosion of unspecified degree of unspecified shoulder, sequela"
+903,Ornamental Railings,Neoplasm of uncertain behavior of cerebral meninges
+904,Masonry & Precast,"Displaced comminuted fracture of shaft of radius, right arm, subsequent encounter for open fracture type I or II with malunion"
+905,Casework,"Burn due to water-skis on fire, initial encounter"
+906,Electrical and Fire Alarm,Moderate laceration of heart with hemopericardium
+907,Epoxy Flooring,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, bilateral legs"
+908,Elevator,"Toxic effect of venom of other snake, undetermined"
+909,Plumbing & Medical Gas,"Unspecified injury of other specified blood vessels at shoulder and upper arm level, right arm"
+910,Electrical and Fire Alarm,"Displaced fracture of distal phalanx of right middle finger, subsequent encounter for fracture with malunion"
+911,Epoxy Flooring,"Nondisplaced fracture of glenoid cavity of scapula, left shoulder, subsequent encounter for fracture with delayed healing"
+912,Framing (Steel),"Other injury of extensor muscle, fascia and tendon of right index finger at wrist and hand level, sequela"
+913,Waterproofing & Caulking,Osteitis deformans of left forearm
+914,Drywall & Acoustical (MOB),"Pathological fracture in other disease, unspecified femur"
+915,Glass & Glazing,"Unspecified early complication of trauma, sequela"
+916,Construction Clean and Final Clean,Contusion of thumb with damage to nail
+917,Exterior Signage,Congenital absence of breast with absent nipple
+918,Masonry,"Nondisplaced Type II dens fracture, subsequent encounter for fracture with routine healing"
+919,Roofing (Metal),Other benign neoplasm of skin of ear and external auricular canal
+920,Overhead Doors,"Acquired clubfoot, left foot"
+921,Framing (Steel),"Other fracture of right lower leg, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+922,Roofing (Metal),"Diffuse traumatic brain injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+923,Wall Protection,"Displaced segmental fracture of shaft of ulna, right arm, subsequent encounter for open fracture type I or II with routine healing"
+924,Curb & Gutter,Varicella myelitis
+925,Exterior Signage,"Smith's fracture of left radius, subsequent encounter for closed fracture with malunion"
+926,Wall Protection,"Contracture of muscle, left lower leg"
+927,Epoxy Flooring,Malignant neoplasm of overlapping sites of hypopharynx
+928,Marlite Panels (FED),"Other displaced fracture of sixth cervical vertebra, initial encounter for closed fracture"
+929,Drilled Shafts,"Other specified injuries of right shoulder and upper arm, initial encounter"
+930,Roofing (Metal),Other specified diseases of esophagus
+931,HVAC,"Unspecified physeal fracture of upper end of left tibia, sequela"
+932,Construction Clean and Final Clean,"Corrosion of first degree of unspecified axilla, initial encounter"
+933,EIFS,"Toxic effect of venom of tarantula, undetermined, sequela"
+934,Plumbing & Medical Gas,Squamous cell carcinoma of skin of trunk
+935,Marlite Panels (FED),"Infection and inflammatory reaction due to internal left knee prosthesis, sequela"
+936,Construction Clean and Final Clean,Chronic lymphocytic leukemia of B-cell type in remission
+937,Framing (Steel),"Exposure to other excessive cold of man-made origin, sequela"
+938,Glass & Glazing,Frostbite with tissue necrosis of neck
+939,Epoxy Flooring,Unspecified injury at C6 level of cervical spinal cord
+940,Painting & Vinyl Wall Covering,Personal history of other diseases of male genital organs
+941,RF Shielding,"Penetrating wound of orbit with or without foreign body, unspecified eye, sequela"
+942,Epoxy Flooring,"Pathological fracture in other disease, left femur, subsequent encounter for fracture with nonunion"
+943,Construction Clean and Final Clean,"Mild to moderate pre-eclampsia, second trimester"
+944,Framing (Steel),Diagnostic and monitoring obstetric and gynecological devices associated with adverse incidents
+945,Curb & Gutter,Other fracture of lower end of ulna
+946,Painting & Vinyl Wall Covering,"Labor and delivery complicated by prolapse of cord, fetus 2"
+947,Rebar & Wire Mesh Install,"Arthritis due to other bacteria, unspecified hand"
+948,Epoxy Flooring,Other stimulant related disorders
+949,Plumbing & Medical Gas,"Keratomalacia, unspecified eye"
+950,RF Shielding,"Nondisplaced oblique fracture of shaft of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+951,Hard Tile & Stone,"Activity, american tackle football"
+952,Construction Clean and Final Clean,"Unspecified injury of right Achilles tendon, initial encounter"
+953,Electrical and Fire Alarm,"Other injury of extensor muscle, fascia and tendon of right little finger at forearm level, sequela"
+954,Hard Tile & Stone,"Poisoning by amphetamines, intentional self-harm"
+955,Framing (Wood),"Unspecified fracture of head of unspecified femur, subsequent encounter for closed fracture with nonunion"
+956,Exterior Signage,"Legal intervention involving injury by handgun, law enforcement official injured, sequela"
+957,Wall Protection,"Dislocation of metatarsophalangeal joint of right great toe, subsequent encounter"
+958,Plumbing & Medical Gas,"Poisoning by other opioids, undetermined, initial encounter"
+959,Construction Clean and Final Clean,"Displaced segmental fracture of shaft of humerus, left arm, subsequent encounter for fracture with nonunion"
+960,Site Furnishings,"Degeneration of iris (pigmentary), right eye"
+961,Retaining Wall and Brick Pavers,"Nondisplaced comminuted fracture of shaft of left fibula, subsequent encounter for closed fracture with delayed healing"
+962,Casework,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 30 minutes or less"
+963,Site Furnishings,"Pedestrian on foot injured in collision with heavy transport vehicle or bus in traffic accident, initial encounter"
+964,Structural & Misc Steel Erection,"Puncture wound without foreign body of left great toe without damage to nail, sequela"
+965,Exterior Signage,"Laceration of greater saphenous vein at lower leg level, unspecified leg, initial encounter"
+966,Epoxy Flooring,"Nondisplaced fracture of medial malleolus of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+967,Epoxy Flooring,"Nondisplaced fracture of distal phalanx of unspecified thumb, subsequent encounter for fracture with malunion"
+968,Structural and Misc Steel (Fabrication),"Motorcycle driver injured in collision with pedestrian or animal in nontraffic accident, initial encounter"
+969,Roofing (Metal),"Toxic effect of petroleum products, undetermined, sequela"
+970,Prefabricated Aluminum Metal Canopies,"Supervision of high risk pregnancy, unspecified, second trimester"
+971,Sitework & Site Utilities,Diffuse traumatic brain injury with loss of consciousness of 1 hour to 5 hours 59 minutes
+972,Construction Clean and Final Clean,"Continuing pregnancy after intrauterine death of one fetus or more, third trimester, other fetus"
+973,Framing (Steel),Secondary biliary cirrhosis
+974,"Doors, Frames & Hardware","Fracture of other parts of pelvis, sequela"
+975,Exterior Signage,"Acquired clawfoot, right foot"
+976,"Doors, Frames & Hardware","Other chondrocalcinosis, unspecified hand"
+977,Framing (Wood),"Adverse effect of other nonsteroidal anti-inflammatory drugs [NSAID], sequela"
+978,Electrical and Fire Alarm,"Chorioamnionitis, third trimester, other fetus"
+979,Glass & Glazing,"Dislocation of tarsometatarsal joint of unspecified foot, sequela"
+980,Glass & Glazing,Adverse effect of unspecified antiepileptic and sedative-hypnotic drugs
+981,"Doors, Frames & Hardware","Car driver injured in collision with railway train or railway vehicle in traffic accident, subsequent encounter"
+982,Framing (Wood),"Salter-Harris Type I physeal fracture of upper end of left tibia, subsequent encounter for fracture with malunion"
+983,Casework,"Chronic periodontitis, localized, slight"
+984,Fire Protection,"Superficial frostbite of unspecified knee and lower leg, initial encounter"
+985,Landscaping & Irrigation,"Laceration of unspecified muscles, fascia and tendons at thigh level, left thigh"
+986,Exterior Signage,Unspecified subluxation and dislocation of thumb
+987,Framing (Steel),"Corneal abscess, unspecified eye"
+988,Electrical,"Exposure of implanted ureteral bulking agent into ureter, sequela"
+989,Casework,"Blister (nonthermal) of right hand, initial encounter"
+990,Fire Protection,"Other displaced fracture of base of first metacarpal bone, unspecified hand, sequela"
+991,Ornamental Railings,"Paresis of accommodation, right eye"
+992,Drilled Shafts,"Partial traumatic amputation at elbow level, unspecified arm"
+993,Fire Sprinkler System,"Person boarding or alighting a pedal cycle injured in collision with railway train or railway vehicle, sequela"
+994,EIFS,"Bacterial sepsis of newborn, unspecified"
+995,Construction Clean and Final Clean,"Pathological fracture in other disease, right femur, subsequent encounter for fracture with malunion"
+996,Soft Flooring and Base,"Toxic effect of nitrogen oxides, assault, sequela"
+997,Curb & Gutter,"Salter-Harris Type IV physeal fracture of upper end of unspecified tibia, subsequent encounter for fracture with nonunion"
+998,Drilled Shafts,Bitten by alligator
+999,Curb & Gutter,"Fracture of left shoulder girdle, part unspecified, subsequent encounter for fracture with routine healing"
+1000,Masonry,"Unspecified fracture of right talus, initial encounter for closed fracture"
